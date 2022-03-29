@@ -10,6 +10,40 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
 
 [TEST CASES](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/7b5292f204f184f879ff8226a01249dde84bbc6f/Test%20Cases%20-%20Indetail) - These are a set of steps which are framed to invoke all the functionalities present in the product or software. 
              Contains both Positive and Negative functionalities.
+
+
+# Verification v/s Validation
+             
+# Why Testing is really required?
+# Consequences when testing isn't performed.
+
+# STLC - Software Testing Life Cycle
+
+# Test Pyramid
+
+# Testing Classifications         
+# Types Of Testing
+# Few Principles of S/w Testing
+# S/w Testing Techniques
+# Unit testing vs integration testing
+# System Testing Vs Integration Testing
+# System Testing Vs Acceptance Testing
+# Black box Testing Vs White box Testing
+# Static Testing VS Dynamic Testing
+# Automated Testing Vs Manual Testing
+# Agile Testing
+# Volume Testing
+# Usability Testing
+# Security Testing
+# Localization
+# Load/Performance Testing
+# Adhoc Testing
+# Penetration Testing
+# Acceptance Testing
+
+# Defects
+
+#
              
              
              
