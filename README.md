@@ -12,7 +12,7 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
              Contains both Positive and Negative functionalities.
 
 
-##  Verification v/s Validation
+##  Verification v/s Validation - [link](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/8f22442a73c25b8c4a9c228cda228b45d6b90555/verification%20-%20validation.md)
              
 ##  Why Testing is really required?
 ##  Consequences when testing isn't performed.
@@ -37,7 +37,7 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
 ##  Security Testing
 ##  Localization
 ##  Load/Performance Testing
-##  Adhoc Testingå
+##  Adhoc Testing
 ##  Penetration Testing
 ##  Acceptance Testing
 
