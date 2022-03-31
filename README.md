@@ -12,7 +12,13 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
              Contains both Positive and Negative functionalities.
 
 
-##  Verification v/s Validation - [link](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/e736a370183e177a4506356cd59a9f60d418d421/verification%20-%20validation.md)
+##  Verification v/s Validation - 
+These two terms are commonly used in SE which are refered to two different types - <br>
+
+**VERIFICATION** - Process that determines the quality of the Software. <br>
+**VALIDATION** - Process that checks the requirements of the customer that are actually w.r.t the software functionality.<br>
+
+Major differences can be found [here..](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/e736a370183e177a4506356cd59a9f60d418d421/verification%20-%20validation.md)
              
 ##  Why Testing is really required?
 1. To avoid risks during the execution.
@@ -23,12 +29,25 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
 and so on..
 
 ##  Consequences when testing isn't performed!
-1. 
+
+1. A non properly tested product may end up with leaking of the confidential data to the open internet. (a Bank Application, the data may be end up in the hands of hackers)
+2. When noticed w.r.t the different platforms, the data may be inconsistent.
+3. We may end up with Excessive expenses as the BUGs may require cost and time for resolution.
+4. Also, may cause delay in the product deployment or launch.
+5. Customer Satisfaction or User Experience may get reduced gradually. <br>
+and so on..
+
+## Few key principles of Testing a Software.
+1. All the test cases / test parameters must be planned during the early stages of testing.
+2. The test cases must be designed in such a way that it is easily understandable to the End User.
+3. All the test cases must meet the Customer requirements.
 
 ##  STLC - Software Testing Life Cycle
+This is a sequence of activities performed by the Testing team for a quality of the software or product. It is almost similar to an SDLC.
+        ![Screen Shot 2022-03-31 at 4 53 12 PM](https://user-images.githubusercontent.com/77274387/161147533-d898ff3c-d921-4e7e-8f8b-d2a6ef39b3f3.png) <br>
+Let's check indetail [here..](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/fbf892bd73ce218b2c9ca7526ce23e7e5a2c17e6/stlc.md)
 
 ##  Test Pyramid
-
 ##  Testing Classifications         
 ##  Types Of Testing
 ##  Few Principles of S/w Testing
