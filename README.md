@@ -43,13 +43,17 @@ and so on..
 3. All the test cases must meet the Customer requirements.
 
 ##  STLC - Software Testing Life Cycle
-This is a sequence of activities performed by the Testing team for a quality of the software or product. It is almost similar to an SDLC.
-        ![Screen Shot 2022-03-31 at 4 53 12 PM](https://user-images.githubusercontent.com/77274387/161147533-d898ff3c-d921-4e7e-8f8b-d2a6ef39b3f3.png) <br>
-Let's check indetail [here..](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/fbf892bd73ce218b2c9ca7526ce23e7e5a2c17e6/stlc.md)
+This is a sequence of activities performed by the Testing team for a quality of the software or product. It is almost similar to an SDLC. <br>
+        ![Screen Shot 2022-03-31 at 4 53 12 PM](https://user-images.githubusercontent.com/77274387/161147533-d898ff3c-d921-4e7e-8f8b-d2a6ef39b3f3.png) 
+<br>Let's check indetail [here..](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/fbf892bd73ce218b2c9ca7526ce23e7e5a2c17e6/stlc.md)
 
-##  Test Pyramid
-##  Testing Classifications         
-##  Types Of Testing
+##  Testing Classifications
+Mainly testing can be classified as _Functional Testing_ and _Non-Functional Testing._
+**Functional Testing** - Its a type of Testing which verifies each and every function of the product is meeting the Customer Requirements. This inclues both Manual and Automation Testing.
+
+**Non-Functional Testing** - In this type of testing, team performs different types of jobs such as verifying the performance of a Website, etc.
+Lets deep dive into the both [Testing Types in brief]()
+
 ##  Few Principles of S/w Testing
 ##  S/w Testing Techniques
 ##  Unit testing vs integration testing
