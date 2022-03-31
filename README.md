@@ -1,4 +1,4 @@
-# LearningResourcesForQA
+##  LearningResourcesForQA
 This Repo consists set of Learning Resources for SQA. (Click Readme.md to view the file)
 
 ## What's testing? 
@@ -12,42 +12,44 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
              Contains both Positive and Negative functionalities.
 
 
-# Verification v/s Validation
+##  Verification v/s Validation
              
-# Why Testing is really required?
-# Consequences when testing isn't performed.
+##  Why Testing is really required?
+##  Consequences when testing isn't performed.
 
-# STLC - Software Testing Life Cycle
+##  STLC - Software Testing Life Cycle
 
-# Test Pyramid
+##  Test Pyramid
 
-# Testing Classifications         
-# Types Of Testing
-# Few Principles of S/w Testing
-# S/w Testing Techniques
-# Unit testing vs integration testing
-# System Testing Vs Integration Testing
-# System Testing Vs Acceptance Testing
-# Black box Testing Vs White box Testing
-# Static Testing VS Dynamic Testing
-# Automated Testing Vs Manual Testing
-# Agile Testing
-# Volume Testing
-# Usability Testing
-# Security Testing
-# Localization
-# Load/Performance Testing
-# Adhoc Testing
-# Penetration Testing
-# Acceptance Testing
+##  Testing Classifications         
+##  Types Of Testing
+##  Few Principles of S/w Testing
+##  S/w Testing Techniques
+##  Unit testing vs integration testing
+##  System Testing Vs Integration Testing
+##  System Testing Vs Acceptance Testing
+##  Black box Testing Vs White box Testing
+##  Static Testing VS Dynamic Testing
+##  Automated Testing Vs Manual Testing
+##  Agile Testing
+##  Volume Testing
+##  Usability Testing
+##  Security Testing
+##  Localization
+##  Load/Performance Testing
+##  Adhoc Testingå
+##  Penetration Testing
+##  Acceptance Testing
 
-# Defects
+## Defects
 
-#
+## 
              
              
              
              
              
-# Contributions           
+##  Contributions           
 Feel free to fork and add new content! Your contributions are always welcome! 
+
+
