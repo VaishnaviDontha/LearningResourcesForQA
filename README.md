@@ -8,7 +8,7 @@ Here, checks may refer in perf. testing/API testing/DB testing. <br>
 
 To test up any product or software we're required to develop **_Test Cases_**.<br>
 
-[TEST CASES](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/7b5292f204f184f879ff8226a01249dde84bbc6f/Test%20Cases%20-%20Indetail) - These are a set of steps which are framed to invoke all the functionalities present in the product or software. 
+[TEST CASES](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/8f22442a73c25b8c4a9c228cda228b45d6b90555/testcases.md) - These are a set of steps which are framed to invoke all the functionalities present in the product or software. 
              Contains both Positive and Negative functionalities.
 
 
