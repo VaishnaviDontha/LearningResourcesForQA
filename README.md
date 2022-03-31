@@ -12,7 +12,7 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
              Contains both Positive and Negative functionalities.
 
 
-##  Verification v/s Validation - [link](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/8f22442a73c25b8c4a9c228cda228b45d6b90555/verification%20-%20validation.md)
+##  Verification v/s Validation - [link](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/e736a370183e177a4506356cd59a9f60d418d421/verification%20-%20validation.md)
              
 ##  Why Testing is really required?
 1. To avoid risks during the execution.
