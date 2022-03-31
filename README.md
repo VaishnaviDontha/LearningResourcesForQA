@@ -15,7 +15,15 @@ To test up any product or software we're required to develop **_Test Cases_**.<b
 ##  Verification v/s Validation - [link](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/8f22442a73c25b8c4a9c228cda228b45d6b90555/verification%20-%20validation.md)
              
 ##  Why Testing is really required?
-##  Consequences when testing isn't performed.
+1. To avoid risks during the execution.
+2. To measure the efficiency, performance, etc before it is deployed in prodution.
+3. To avoid extra cost and time. Because, if the BUGs are caught at the early stages of Devlopment it helps to fix with less cost.
+4. Enables, to give a Quality Product at the end.
+5. To have a best Customer Satisfaction. This can be done when the software is tested throughly to have a best customer experience. 
+and so on..
+
+##  Consequences when testing isn't performed!
+1. 
 
 ##  STLC - Software Testing Life Cycle
 
