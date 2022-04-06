@@ -8,7 +8,7 @@ Here, checks may refer in perf. testing/API testing/DB testing. <br>
 
 To test up any product or software we're required to develop **_Test Cases_**.<br>
 
-[TEST CASES](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/8f22442a73c25b8c4a9c228cda228b45d6b90555/testcases.md) - These are a set of steps which are framed to invoke all the functionalities present in the product or software. 
+[TEST CASES](testcases.md) - These are a set of steps which are framed to invoke all the functionalities present in the product or software. 
              Contains both Positive and Negative functionalities.
 
 
@@ -45,7 +45,7 @@ and so on..
 ##  STLC - Software Testing Life Cycle
 This is a sequence of activities performed by the Testing team for a quality of the software or product. It is almost similar to an SDLC. <br>
         ![Screen Shot 2022-03-31 at 4 53 12 PM](https://user-images.githubusercontent.com/77274387/161147533-d898ff3c-d921-4e7e-8f8b-d2a6ef39b3f3.png) 
-<br>Let's check indetail [here..](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/fbf892bd73ce218b2c9ca7526ce23e7e5a2c17e6/stlc.md)
+<br>Let's check indetail [here..](stlc.md)
 
 ##  Testing Classifications
 Mainly testing can be classified as _Functional Testing_ and _Non-Functional Testing._
