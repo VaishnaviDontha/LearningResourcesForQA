@@ -51,7 +51,7 @@ This is a sequence of activities performed by the Testing team for a quality of 
 Mainly testing can be classified as _Functional Testing_ and _Non-Functional Testing._
 **Functional Testing** - Its a type of Testing which verifies each and every function of the product is meeting the Customer Requirements. This inclues both Manual and Automation Testing.
 
-**Non-Functional Testing** - In this type of testing, team performs different types of jobs such as verifying the performance of a Website, etc.
+**Non-Functional Testing** - In this type of testing, team performs different types of jobs such as verifying the performance of a Website, etc. <br>
 Lets deep dive into the both [Testing Types in brief]()
 
 ##  Few Principles of S/w Testing
