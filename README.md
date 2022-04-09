@@ -81,6 +81,6 @@ Lets deep dive into the both [Testing Types in brief]()
              
              
 ##  Contributions           
-Feel free to fork and add new content! Your contributions are always welcome! 
+Feel free to fork and add new content. Your contributions are always welcome! 
 
 
