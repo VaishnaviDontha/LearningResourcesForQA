@@ -1,6 +1,6 @@
 ---
-title: Key Differences of Verification and Validation
-slug: differences between Verification and Validation
+title: Verification v/s Validation
+slug: verification-validation.md
 tags: QAResources
 domain: vaishnavidontha.hashnode.dev
 ---
