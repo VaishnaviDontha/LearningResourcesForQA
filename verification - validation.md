@@ -1,3 +1,11 @@
+---
+title: YOUR_TITLE_HERE
+slug: CUSTOM_SLUG_HERE
+tags: TAG_SLUG_1, TAG_SLUG_2
+cover: COVER_IMAGE_URL
+domain: vaishnavidontha.hashnode.dev
+---
+
 ## Key Differences of Verification and Validation
 
 1. Verification **does not involve Code Execution** where as Validation** involves Code Execution.**
