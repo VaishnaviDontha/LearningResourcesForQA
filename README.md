@@ -1,6 +1,7 @@
 ---
-title: LearningResourcesForQA
-tags: ResourcesForQA
+title: Learning Resources for QA
+slug: QA 
+tags: QAResources
 domain: vaishnavidontha.hashnode.dev
 ---
 
