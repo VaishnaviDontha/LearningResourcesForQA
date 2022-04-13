@@ -6,7 +6,7 @@ domain: vaishnavidontha.hashnode.dev
 ---
 
 ##  LearningResourcesForQA
-This Repo consists set of Learning Resources for SQA. (Click Readme.md to view the file)
+This Repo consists set of Learning Resources for SQA.
 
 ## What's testing? 
 A process to check how a product (may refer to any such as, a Website, a Win Tool etc) behaves when a certain steps of checks are executed on it.
