@@ -25,7 +25,7 @@ These two terms are commonly used in SE which are refered to two different types
 **VERIFICATION** - Process that determines the quality of the Software. <br>
 **VALIDATION** - Process that checks the requirements of the customer that are actually w.r.t the software functionality.<br>
 
-Major differences can be found [here..](https://github.com/VaishnaviDontha/LearningResourcesForQA/blob/a08ca916ad5601bf1e04f9679f9ccb873ac5fb04/verification%20-%20validation.md)
+Major differences can be found [here..](verification - validation.md)
              
 ##  Why Testing is really required?
 1. To avoid risks during the execution.
