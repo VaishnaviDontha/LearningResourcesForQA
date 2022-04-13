@@ -1,5 +1,5 @@
 ---
-title: Learning Resources for QA
+title: STLC
 slug: stlc.md
 tags: QAResources
 domain: vaishnavidontha.hashnode.dev
