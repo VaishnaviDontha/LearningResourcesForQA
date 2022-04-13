@@ -1,8 +1,7 @@
 ---
-title: YOUR_TITLE_HERE
-slug: CUSTOM_SLUG_HERE
-tags: TAG_SLUG_1, TAG_SLUG_2
-cover: COVER_IMAGE_URL
+title: Types of Testing
+slug: testingTypes.md
+tags: QAResources
 domain: vaishnavidontha.hashnode.dev
 ---
 
