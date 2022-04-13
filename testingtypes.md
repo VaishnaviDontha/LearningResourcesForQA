@@ -1,6 +1,6 @@
 ---
 title: Types of Testing
-slug: testingTypes.md
+slug: testingtypes.md
 tags: QAResources
 domain: vaishnavidontha.hashnode.dev
 ---
