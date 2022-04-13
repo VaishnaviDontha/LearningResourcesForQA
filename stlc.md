@@ -1,3 +1,11 @@
+---
+title: YOUR_TITLE_HERE
+slug: CUSTOM_SLUG_HERE
+tags: TAG_SLUG_1, TAG_SLUG_2
+cover: COVER_IMAGE_URL
+domain: vaishnavidontha.hashnode.dev
+---
+
 ![Screen Shot 2022-03-31 at 4 53 12 PM](https://user-images.githubusercontent.com/77274387/161147758-bbcb58c1-8395-423e-bda0-6eaf8f08a024.png)
 
 * Requirement Analysis 
