@@ -6,7 +6,7 @@ domain: vaishnavidontha.hashnode.dev
 ---
 
 ##  LearningResourcesForQA
-This Repo consists set of Learning Resources for SQA.
+This is a series which consists a set of Learning Resources for SQA.
 
 ## What's testing? 
 A process to check how a product (may refer to any such as, a Website, a Win Tool etc) behaves when a certain steps of checks are executed on it.
@@ -59,7 +59,7 @@ Mainly testing can be classified as _Functional Testing_ and _Non-Functional Tes
 **Functional Testing** - Its a type of Testing which verifies each and every function of the product is meeting the Customer Requirements. This inclues both Manual and Automation Testing.
 
 **Non-Functional Testing** - In this type of testing, team performs different types of jobs such as verifying the performance of a Website, etc. <br>
-Lets deep dive into the both [Testing Types in brief]()
+Lets deep dive into the both [Testing Types in brief](testingTypes.md)
 
 ##  Few Principles of S/w Testing
 ##  S/w Testing Techniques
