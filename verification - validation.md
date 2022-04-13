@@ -2,7 +2,6 @@
 title: Key Differences of Verification and Validation
 slug: differences between Verification and Validation
 tags: QAResources
-cover: COVER_IMAGE_URL
 domain: vaishnavidontha.hashnode.dev
 ---
 
