@@ -1,6 +1,6 @@
 ---
 title: Test Cases
-slug: QA 
+slug: testcases.md
 tags: QAResources
 domain: vaishnavidontha.hashnode.dev
 ---
