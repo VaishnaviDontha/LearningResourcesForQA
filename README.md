@@ -61,31 +61,6 @@ Mainly testing can be classified as _Functional Testing_ and _Non-Functional Tes
 **Non-Functional Testing** - In this type of testing, team performs different types of jobs such as verifying the performance of a Website, etc. <br>
 Lets deep dive into the both [Testing Types in brief](testingtypes.md)
 
-##  Few Principles of S/w Testing
-##  S/w Testing Techniques
-##  Unit testing vs integration testing
-##  System Testing Vs Integration Testing
-##  System Testing Vs Acceptance Testing
-##  Black box Testing Vs White box Testing
-##  Static Testing VS Dynamic Testing
-##  Automated Testing Vs Manual Testing
-##  Agile Testing
-##  Volume Testing
-##  Usability Testing
-##  Security Testing
-##  Localization
-##  Load/Performance Testing
-##  Adhoc Testing
-##  Penetration Testing
-##  Acceptance Testing
-
-## Defects
-
-## 
-             
-             
-             
-             
              
 ##  Contributions           
 Feel free to fork and add new content. Your contributions are always welcome! 
