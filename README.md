@@ -1,10 +1,3 @@
----
-title: Learning Resources for QA
-slug: QAlearning 
-tags: QAResources
-domain: vaishnavidontha.hashnode.dev
----
-
 ##  LearningResourcesForQA
 This is a series which consists a set of Learning Resources for SQA.
 
