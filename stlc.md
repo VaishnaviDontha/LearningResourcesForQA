@@ -1,9 +1,4 @@
----
-title: STLC
-slug: stlc.md
-tags: QAResources
-domain: vaishnavidontha.hashnode.dev
----
+
 
 ![Screen Shot 2022-03-31 at 4 53 12 PM](https://user-images.githubusercontent.com/77274387/161147758-bbcb58c1-8395-423e-bda0-6eaf8f08a024.png)
 
