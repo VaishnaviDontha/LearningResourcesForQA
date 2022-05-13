@@ -1,9 +1,3 @@
----
-title: Types of Testing
-slug: testingtypes.md
-tags: QAResources
-domain: vaishnavidontha.hashnode.dev
----
 
 
 ### Types of Testing : 
